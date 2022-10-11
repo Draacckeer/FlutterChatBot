@@ -58,7 +58,6 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   assets:
-    - assets/prototipo-agent-2036254ef449.json
     - assets/test-entities-9-10-jinh-0dac8a8c06a0.json
 
   # The following line ensures that the Material Icons font is
